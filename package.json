@@ -1,10 +1,10 @@
 {
-  "name": "@ample-labs/eslint-config-ample",
-  "version": "0.1.1",
-  "description": "Ample eslint config",
+  "name": "@darron1217/eslint-config-darron",
+  "version": "0.1.0",
+  "description": "My eslint config",
   "main": "lib/index.js",
-  "repository": "https://github.com/ample-Labs/eslint-config-ample.git",
-  "author": "Ample Labs",
+  "repository": "https://github.com/darron1217/eslint-config-darron.git",
+  "author": "Darron Park",
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.27.1",

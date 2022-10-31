@@ -1,7 +1,7 @@
-# eslint-config-ample
+# eslint-config-darron
 
 ## Install
 
 ```bash
-yarn add @ample-labs/eslint-config-ample
+yarn add @darron1217/eslint-config-darron
 ```
